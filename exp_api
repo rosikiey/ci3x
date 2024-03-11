@@ -1,2 +1,12 @@
 http://localhost/Ci3/Api/users
 http://localhost/Ci3/Ccustomer/customer
+
+-- cek logs
+http://localhost/Ci3/LogViewerController
+--CEK LOGS Api
+http://localhost/Ci3/apilogs
+http://localhost/Ci3/apilogs?api=list
+http://localhost/Ci3/apilogs?api=view&f=bG9nLTIwMjQtMDMtMDgucGhw
+
+REFERESNSI GITHUB
+https://github.com/SeunMatt/codeigniter-log-viewer/wiki/CodeIgniter-3-Guide
